@@ -1,4 +1,4 @@
-# Shortner-Detection-Tool
+# PTC-TRACKER-Tool
 
 Hello Friends,
 
@@ -8,15 +8,11 @@ Your Are Unable To Find These Person
 
 I Have Created A Tool That Check All Users Account And Find These Person Who Are Sending Fake Views.
 
-I Have Given Some Payment Details Of These Scammer But They Are Also Using Site Generated UPI.
+This Tool Help You For Trackering All PTC Users And Also Finding Youtube, Instagram, FaceBook, Social Media And Other Site Traffic.
 
-He Has Many UPI ID
+# Features
 
-You Can Also Use Our Tools To Ban These Scammer From Your Shortner [Paid]
-
-I Have Banned Many Scammer
-
-Your Can All Check My Telegram Channel Where I Am Pulishing These Details
+This Tool Help You For Trackering All PTC Users And Also Finding Youtube, Instagram, FaceBook, Social Media And Other Site Traffic.
 
 # Scammer Link
 
@@ -26,7 +22,13 @@ Telegram - [Channel](https://t.me/Shortner_Scammer)
 
 499 Indian RS/Month
 
-4999 Indian RS/Yearly
+3000 Indian RS/Yearly
+
+Lifetime Access - Ask To Our Owner - [Developer](https://wa.me/+919504798173)
+
+# Setup 
+
+Ask To Our Owner - [Developer](https://wa.me/+919504798173)
 
 # Contact
 
